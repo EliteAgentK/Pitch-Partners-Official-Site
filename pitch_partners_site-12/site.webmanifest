@@ -1,0 +1,17 @@
+{
+  "name": "Pitch Partners",
+  "short_name": "PP",
+  "description": "School football coaching, private training and player pathway guidance in Johannesburg.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061936",
+  "theme_color": "#061936",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

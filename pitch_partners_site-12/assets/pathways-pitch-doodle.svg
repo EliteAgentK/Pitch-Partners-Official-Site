@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" fill="none">
+  <g stroke="#071426" stroke-width="2.2" opacity=".14" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="35" y="45" width="1530" height="430" rx="8"/>
+    <line x1="800" y1="45" x2="800" y2="475"/>
+    <circle cx="800" cy="260" r="92"/>
+    <circle cx="800" cy="260" r="6" fill="#071426" opacity=".12"/>
+    <rect x="35" y="142" width="168" height="236"/>
+    <rect x="1397" y="142" width="168" height="236"/>
+    <rect x="35" y="205" width="66" height="110"/>
+    <rect x="1499" y="205" width="66" height="110"/>
+    <path d="M248 205c35 36 35 74 0 110"/>
+    <path d="M1352 205c-35 36-35 74 0 110"/>
+  </g>
+  <g stroke="#071426" stroke-width="2" opacity=".23" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M640 310c62-45 134-42 194 8"/>
+    <path d="M834 318l-48 8M834 318l-17-43"/>
+    <path d="M980 145c58 44 73 105 32 169" stroke-dasharray="13 13"/>
+    <path d="M1012 314l-5-51M1012 314l43-28"/>
+    <path d="M470 218c66 12 116 45 154 98"/>
+    <path d="M624 316l-47-7M624 316l-5-47"/>
+    <path d="M1190 330c-52 32-104 29-156-8" stroke-dasharray="13 13"/>
+    <path d="M1034 322l46-3M1034 322l20 42"/>
+  </g>
+  <g fill="#071426" opacity=".22" font-family="Arial, sans-serif" font-size="30" font-weight="700">
+    <text x="700" y="205">X</text><text x="1030" y="205">X</text><text x="1135" y="365">X</text><text x="565" y="370">X</text>
+  </g>
+  <g stroke="#071426" stroke-width="2.2" opacity=".22">
+    <circle cx="610" cy="245" r="12"/><circle cx="715" cy="355" r="12"/><circle cx="930" cy="330" r="12"/><circle cx="1110" cy="255" r="12"/><circle cx="1225" cy="300" r="12"/>
+  </g>
+</svg>
